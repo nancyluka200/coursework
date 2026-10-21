@@ -1,0 +1,10 @@
+Product,Region,Sales
+Product A,North,1000
+Product B,South,1500
+Product A,East,1200
+Product C,West,800
+Product B,North,2000
+Product C,South,700
+Product A,West,1100
+Product B,East,1300
+Product C,North,900
